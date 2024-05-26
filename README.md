@@ -11,3 +11,12 @@ You need to prepare the following:
 	• You should provide the files to test the .py script and clear instructions on how to run it.
  
 Happy coding!!
+
+**PD**: *Steps by Steps:*
+pre_processing.ipynb for cleaning the dataset, EDA, and some traditionals algorithms.
+models.ipynb for modelling and getting the best model.
+best_model.py for testing the best model (ANN) using the sample from the original dataset
+This .py exports the classification_request.db with the requests_predictions table created
+to execute this script, please use the following code: python best_model.py models/models_testing.csv
+![image](https://github.com/JorgeCCorroV/AustinTX_311_Calls_Complaints_Requests/assets/148816242/1f8b8225-e109-4bd9-986c-beba5d1e37ea)
+
