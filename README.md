@@ -1,4 +1,4 @@
-**Final Assignment**
+**CLASSICAL DATA ANALYSIS: Final Assignment**
 
 
 Your company, DS Pros, would like to win a contract with a big city council as it would give us great PR. To do so you think it would be a great idea to proactively browse in the open data sets of this city (the one you choose, total freedom here) identify a situation that could be solved or improved using classification algorithms and present it to the technical office of that city council.
